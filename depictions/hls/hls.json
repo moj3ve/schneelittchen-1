@@ -79,7 +79,7 @@
                 {   
                     "class": "DepictionTableTextView",
                     "title": "Devices",
-                    "text": "iPhone, iPad & iPod"
+                    "text": "iPhone, iPod & iPad"
                 },
                 {
                     "class": "DepictionTableTextView",
