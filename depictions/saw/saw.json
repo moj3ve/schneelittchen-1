@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4",
+                    "text": "1.4.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.03.2021",
+                    "text": "21.05.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Custom Alpha\r\n- Reworked Prefernces",
+                    "markdown": "- Fixed Resetting Preferences Not Deleting The Wallpaper\r\n- Updated Preferences",
                     "useSpacing": false
                 },
                 {
