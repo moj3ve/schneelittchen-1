@@ -49,7 +49,7 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4",
+                    "text": "1.4.1",
                     "class": "DepictionTableTextView"
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Refactored Main And Preferences Code\r\n- Added An Option To Show A Moon Emoji Next To The Status Bar Time",
+                    "markdown": "- Fixed The Status Bar Emoji Causing Other Text To Not Appear",
                     "useSpacing": false
                 },
                 {
