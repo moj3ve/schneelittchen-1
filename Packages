@@ -3139,6 +3139,25 @@ Icon: https://repo.litten.love/depictions/lne/assets/icon.png
 Name: Lune 🌙
 Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
 
+Package: love.litten.lune
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1444
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.lune_1.4.2_iphoneos-arm.deb
+Size: 977626
+MD5sum: 7774b9c3368f62669ccbd2dacbe17981
+SHA1: fafe31f25a50a599308516c2d2a5b3a594022854
+SHA256: 8151a80269be7bc1e9c5ef640a7e7eeef174f4f9cb76c2ae39ff13d526944f5a
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: Litten
+Depiction: https://repo.litten.love/depictions/lne/index.html
+Icon: https://repo.litten.love/depictions/lne/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/lne/lne.json
+
 Package: love.litten.nita
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3397,6 +3416,25 @@ Size: 896158
 MD5sum: fd2ea5d252e0671208aa020c68352194
 SHA1: a3bcef6ca7d4a476e6661da55adcbeb27f395b3c
 SHA256: 71d0f5633dfb02252c8b1fc04b7c74b4638303c965ee5af739cde1021be979bc
+Section: Tweaks
+Description: Ensoleillé
+Author: Litten
+Depiction: https://repo.litten.love/depictions/nta/index.html
+Icon: https://repo.litten.love/depictions/nta/assets/icon.png
+Name: Nita ☀️
+Sileodepiction: https://repo.litten.love/depictions/nta/nta.json
+
+Package: love.litten.nita
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1348
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./debs/love.litten.nita_1.5.1_iphoneos-arm.deb
+Size: 896012
+MD5sum: 276fbb4a29a875d67e43fbddbd957ef0
+SHA1: e16416046d20d5b20d9fd450cd89cf8ded9727f7
+SHA256: d10e65e2149aec98cfcb7c9fd614585e7b61baf68e287730addf24724331e0eb
 Section: Tweaks
 Description: Ensoleillé
 Author: Litten
@@ -3834,6 +3872,25 @@ Size: 1068116
 MD5sum: 94000f906288d8e29def8138dc807656
 SHA1: 26ee19e95078d4d5c28048c61d9eba15f49f1581
 SHA256: 58520fab8321772c7154803b078b0a5c9c58862f4e0a4a3a3bc121ca3a0bfdce
+Section: Tweaks
+Description: Your magical watching spirit
+Author: Litten
+Depiction: https://repo.litten.love/depictions/pck/index.html
+Icon: https://repo.litten.love/depictions/pck/assets/icon.png
+Name: Puck 🔮
+Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
+
+Package: love.litten.puck
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2720
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/love.litten.puck_2.0_iphoneos-arm.deb
+Size: 1782136
+MD5sum: 4518142167c680797265db7c11f6cdec
+SHA1: 4e8c610ec2cdd64f291d968427922dd2e33e78c9
+SHA256: 0e8feb3636ef1d1395b7612a9959555073dbd32b2f8fcfbe5a3b3f63706fa603
 Section: Tweaks
 Description: Your magical watching spirit
 Author: Litten

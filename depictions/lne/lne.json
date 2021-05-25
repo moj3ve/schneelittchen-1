@@ -49,12 +49,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.1",
+                    "text": "1.4.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "22.05.2021",
+                    "text": "25.05.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed The Status Bar Emoji Causing Other Text To Not Appear",
+                    "markdown": "- Fixed background dim\r\n- Increased maximum moon y axis",
                     "useSpacing": false
                 },
                 {

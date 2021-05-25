@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.9",
+                    "text": "2.0",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "19.04.2021",
+                    "text": "25.05.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added An Option To Toggle Airplane Mode",
+                    "markdown": "- Added an option to hide the low power alert",
                     "useSpacing": false
                 },
                 {
