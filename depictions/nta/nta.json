@@ -49,12 +49,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.5.1",
+                    "text": "1.5.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "25.05.2021",
+                    "text": "26.05.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed the replace carrier option",
+                    "markdown": "- Fixed emoji not appearing when both emoji and temperature are enabled",
                     "useSpacing": false
                 },
                 {
