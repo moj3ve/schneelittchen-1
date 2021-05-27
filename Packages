@@ -2265,6 +2265,26 @@ Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
 Name: libKitten 🐱
 Sileodepiction: https://repo.litten.love/depictions/libktn/libktn.json
 
+Package: love.litten.libkitten
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.3.1_iphoneos-arm.deb
+Size: 9036
+MD5sum: b2427bf13b3d0e1a269a0917fd2d7da5
+SHA1: d15627724f6a21107de1c01dc5d71a4e1a8a5c47
+SHA256: 134ca8e726cb9071619802650ea82e8be221696a0f3d9bbcd4e198f43429aa30
+Section: System
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Author: Litten
+Depiction: https://repo.litten.love/depictions/libktn/index.html
+Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
+Name: libKitten 🐱
+Sileodepiction: https://repo.litten.love/depictions/libktn/libktn.json
+
 Package: love.litten.liddell
 Version: 1.0
 Architecture: iphoneos-arm

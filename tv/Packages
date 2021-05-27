@@ -34,3 +34,23 @@ Depiction: https://repo.litten.love/tv/depictions/libktn/libktn.json
 Icon: https://repo.litten.love/tv/depictions/libktn/assets/icon.png
 Name: libKitten
 
+Package: love.litten.libkitten
+Version: 1.3.1
+Architecture: appletvos-arm
+Maintainer: Litten
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten_1.3.1_appletvos-arm.deb
+Size: 9034
+MD5sum: 0e34cd57acf6603ef78797779232813a
+SHA1: a681dff5ef90a0014a27eebd538be56a6f4150dd
+SHA256: 96ff659431d4f5a4dc95bab882482c3c2c7d4027f7acf248048a37ba512863f9
+Section: System
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Author: Litten
+Depiction: https://repo.litten.love/depictions/libktn/index.html
+Icon: https://repo.litten.love/depictions/libktn/assets/icon.png
+Name: libKitten 🐱
+Sileodepiction: https://repo.litten.love/depictions/libktn/libktn.json
+
