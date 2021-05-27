@@ -10,16 +10,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/yna/assets/ss1.mp4",
-                            "video": true
+                            "url": "https://repo.litten.love/depictions/yna/assets/ss1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
                             "url": "https://repo.litten.love/depictions/yna/assets/ss2.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/yna/assets/ss3.png"
                         }
                     ]
                 },
