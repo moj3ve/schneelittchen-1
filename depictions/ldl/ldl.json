@@ -65,12 +65,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1",
+                    "text": "1.1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "26.05.2021",
+                    "text": "29.05.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -117,7 +117,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added custom icon corner radius\r\n- The banner can now be even smaller",
+                    "markdown": "- Fixed the notification grabber being visible",
                     "useSpacing": false
                 },
                 {
