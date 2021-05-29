@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2",
+                    "text": "1.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "03.04.2021",
+                    "text": "29.05.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Display Dim\r\n- Removed Hide Media Player Background Due To A Crash",
+                    "markdown": "Added an option to disable the control center\r\n- Save previous low power mode state\r\n- Fixed FaceID Lock hiding\r\n- Updated preferences",
                     "useSpacing": false
                 },
                 {
