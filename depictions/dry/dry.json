@@ -10,7 +10,8 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/dry/assets/ss1.png"
+                            "url": "https://repo.litten.love/depictions/dry/assets/ss1.mp4",
+                            "video": true
                         },
                         {
                             "accessibilityText": "Screenshot1",
@@ -19,6 +20,14 @@
                         {
                             "accessibilityText": "Screenshot2",
                             "url": "https://repo.litten.love/depictions/dry/assets/ss3.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://repo.litten.love/depictions/dry/assets/ss4.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://repo.litten.love/depictions/dry/assets/ss5.png"
                         }
                     ]
                 },
@@ -50,12 +59,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.05.2021",
+                    "text": "08.06.2021",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "xx.05.2021",
+                    "text": "08.06.2021",
                     "title": "Released"
                 },
                 {   

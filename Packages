@@ -1081,6 +1081,26 @@ Icon: https://repo.litten.love/depictions/dvu/assets/icon.png
 Name: Déjà Vu 🕰
 Sileodepiction: https://repo.litten.love/depictions/dvu/dvu.json
 
+Package: love.litten.diary
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 5480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi
+Filename: ./debs/love.litten.diary_1.0_iphoneos-arm.deb
+Size: 2532010
+MD5sum: 645b087b805a6b987fbb233a1492aa0a
+SHA1: 9714c83a4ee346d0605e2f8aa209614639e727f3
+SHA256: 520533d475a361705003c238128a52cb129c51a12e0198653a6a6608e7f4e008
+Section: Tweaks
+Description: Dear diary..
+Author: Litten
+Depiction: https://repo.litten.love/depictions/dry/index.html
+Icon: https://repo.litten.love/depictions/dry/assets/icon.png
+Name: Diary 📖
+Sileodepiction: https://repo.litten.love/depictions/dry/dry.json
+
 Package: love.litten.dress
 Version: 1.0
 Architecture: iphoneos-arm
