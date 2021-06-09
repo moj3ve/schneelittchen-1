@@ -4,15 +4,27 @@
    "itemCornerRadius":10,
    "banners":[
       {  
-         "url":"https://repo.litten.love/depictions/jun/assets/Banner.png",
-         "title":"Juin",
-         "package":"love.litten.juin",
+         "url":"https://repo.litten.love/depictions/dry/assets/Banner.png",
+         "title":"Diary",
+         "package":"love.litten.diary",
          "hideShadow":true
       },
       {  
-         "url":"https://repo.litten.love/depictions/drs/assets/Banner.png",
-         "title":"Dress",
-         "package":"love.litten.dress",
+         "url":"https://repo.litten.love/depictions/ldl/assets/Banner.png",
+         "title":"Liddell",
+         "package":"love.litten.liddell",
+         "hideShadow":true
+      },
+      {  
+         "url":"https://repo.litten.love/depictions/bdy/assets/Banner.png",
+         "title":"BatteryBuddy",
+         "package":"love.litten.batterybuddy",
+         "hideShadow":true
+      },
+      {
+         "url":"https://repo.litten.love/depictions/dvu/assets/Banner.png",
+         "title":"Déjà Vu",
+         "package":"love.litten.dejavu",
          "hideShadow":true
       },
       {  
@@ -21,40 +33,16 @@
          "package":"love.litten.nita",
          "hideShadow":true
       },
-      {
-         "url":"https://repo.litten.love/depictions/pck/assets/Banner.png",
-         "title":"Puck",
-         "package":"love.litten.puck",
-         "hideShadow":true
-      },
       {  
-         "url":"https://repo.litten.love/depictions/ava/assets/Banner.png",
-         "title":"Avrora",
-         "package":"love.litten.avrora",
-         "hideShadow":true
-      },
-      {  
-         "url":"https://repo.litten.love/depictions/saw/assets/Banner.png",
-         "title":"SafariWallpaper",
-         "package":"love.litten.safariwallpaper",
+         "url":"https://repo.litten.love/depictions/yna/assets/Banner.png",
+         "title":"Yuna",
+         "package":"love.litten.yuna",
          "hideShadow":true
       },
       {
-         "url":"https://repo.litten.love/depictions/vio/assets/Banner.png",
-         "title":"Violet",
-         "package":"love.litten.violet",
-         "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/lne/assets/Banner.png",
-         "title":"Lune",
-         "package":"love.litten.lune",
-         "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/lsa/assets/Banner.png",
-         "title":"Lisa",
-         "package":"love.litten.lisa",
+         "url":"https://repo.litten.love/depictions/cpy/assets/Banner.png",
+         "title":"Copypasta",
+         "package":"love.litten.copypasta",
          "hideShadow":true
       }
    ]
