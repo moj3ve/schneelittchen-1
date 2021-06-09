@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "2.0",
+                    "text": "2.0.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "25.05.2021",
+                    "text": "09.06.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added an option to hide the low power alert",
+                    "markdown": "- Save previous low power mode state",
                     "useSpacing": false
                 },
                 {

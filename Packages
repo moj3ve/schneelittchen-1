@@ -340,6 +340,25 @@ Icon: https://repo.litten.love/depictions/afo/assets/icon.png
 Name: Astolfo 👒
 Sileodepiction: https://repo.litten.love/depictions/afo/afo.json
 
+Package: love.litten.astolfo
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2336
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.astolfo_1.2_iphoneos-arm.deb
+Size: 1948422
+MD5sum: 7c07e27097a41112db65bb89d68bd8ac
+SHA1: a33ffdf8596d43be0e0b345c970d0f46eefcc3eb
+SHA256: 2ddf270934f06c562940457d4dcfed45792ef8378c2d2974212017f3a0e545a0
+Section: Tweaks
+Description: Astolfo siri
+Author: Litten
+Depiction: https://repo.litten.love/depictions/afo/index.html
+Icon: https://repo.litten.love/depictions/afo/assets/icon.png
+Name: Astolfo 👒
+Sileodepiction: https://repo.litten.love/depictions/afo/afo.json
+
 Package: love.litten.avrora
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4026,6 +4045,25 @@ Size: 1782136
 MD5sum: 4518142167c680797265db7c11f6cdec
 SHA1: 4e8c610ec2cdd64f291d968427922dd2e33e78c9
 SHA256: 0e8feb3636ef1d1395b7612a9959555073dbd32b2f8fcfbe5a3b3f63706fa603
+Section: Tweaks
+Description: Your magical watching spirit
+Author: Litten
+Depiction: https://repo.litten.love/depictions/pck/index.html
+Icon: https://repo.litten.love/depictions/pck/assets/icon.png
+Name: Puck 🔮
+Sileodepiction: https://repo.litten.love/depictions/pck/pck.json
+
+Package: love.litten.puck
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2688
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/love.litten.puck_2.0.1_iphoneos-arm.deb
+Size: 1781434
+MD5sum: cb9a41c500d1343fbc9b9d0a0b9df0cb
+SHA1: edd1ef1bc94bfe63d21ecc189c0cfc033d6d5c15
+SHA256: 2353ec7a1be963be833895ac59171ed78c70b24c19ba1513e30fc605ede6aa72
 Section: Tweaks
 Description: Your magical watching spirit
 Author: Litten

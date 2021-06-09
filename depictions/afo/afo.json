@@ -53,12 +53,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1",
+                    "text": "1.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "25.02.2021",
+                    "text": "09.06.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added Blur Options For iOS 14",
+                    "markdown": "- Added adaptive blur\r\n- Reworked preferences",
                     "useSpacing": false
                 },
                 {
