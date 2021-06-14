@@ -1100,6 +1100,25 @@ Icon: https://repo.litten.love/depictions/dvu/assets/icon.png
 Name: Déjà Vu 🕰
 Sileodepiction: https://repo.litten.love/depictions/dvu/dvu.json
 
+Package: love.litten.dejavu
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2216
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.dejavu_1.3.1_iphoneos-arm.deb
+Size: 1761666
+MD5sum: ca551af20bf6f27bd6fae814a6993a92
+SHA1: 27143f89ab762aecb2a121487e35ddc2b8919abe
+SHA256: 15e23529a9cf9a4c2190fa15b6026488d79088c841d87ad6eac5fdf61a796407
+Section: Tweaks
+Description: I've seen that before
+Author: Litten
+Depiction: https://repo.litten.love/depictions/dvu/index.html
+Icon: https://repo.litten.love/depictions/dvu/assets/icon.png
+Name: Déjà Vu 🕰
+Sileodepiction: https://repo.litten.love/depictions/dvu/dvu.json
+
 Package: love.litten.diary
 Version: 1.0
 Architecture: iphoneos-arm
