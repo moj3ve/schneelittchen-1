@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.1",
+                    "text": "1.5",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "21.05.2021",
+                    "text": "27.06.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed Resetting Preferences Not Deleting The Wallpaper\r\n- Updated Preferences",
+                    "markdown": "- Added an option to automatically focus the url bar on an empty tab\r\n- Added blur options\r\n- Removed global wallpaper",
                     "useSpacing": false
                 },
                 {

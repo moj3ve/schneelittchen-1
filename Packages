@@ -4323,6 +4323,25 @@ Icon: https://repo.litten.love/depictions/saw/assets/icon.png
 Name: SafariWallpaper 🌇
 Sileodepiction: https://repo.litten.love/depictions/saw/saw.json
 
+Package: love.litten.safariwallpaper
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1368
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
+Filename: ./debs/love.litten.safariwallpaper_1.5_iphoneos-arm.deb
+Size: 945670
+MD5sum: 9b8ec51b07c13bfde72f7377ce57505f
+SHA1: af5bf9cd1842e65008cdaead3750fc4d67db00d9
+SHA256: 5c5f694257876e74b3c0bd30c73d3510dbb990f1782daf64123c43b8704d19ef
+Section: Tweaks
+Description: Personalize Safari with a wallpaper
+Author: Litten
+Depiction: https://repo.litten.love/depictions/saw/index.html
+Icon: https://repo.litten.love/depictions/saw/assets/icon.png
+Name: SafariWallpaper 🌇
+Sileodepiction: https://repo.litten.love/depictions/saw/saw.json
+
 Package: love.litten.violet
 Version: 1.0
 Architecture: iphoneos-arm
