@@ -1,6 +1,5 @@
 #!/bin/sh
 
-#packages
 echo building package list
 dpkg-scanpackages -m ./debs > Packages
 
