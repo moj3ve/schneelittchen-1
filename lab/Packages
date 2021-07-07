@@ -1,3 +1,22 @@
+Package: love.litten.crystal
+Version: 1.4-33+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1608
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.crystal_1.4-33+debug_iphoneos-arm.deb
+Size: 1079104
+MD5sum: ae9ccbee21c3442a32981727d0d2c47e
+SHA1: 5f8530d2c9193048135d37ad980fe8d417cb7297
+SHA256: 73f9becb7000bbbd6a75c3c8052958cf21498be8954664c572cb687251388e90
+Section: Tweaks
+Description: Headphone listening mode automations
+Author: Litten
+Depiction: https://repo.litten.love/depictions/cst/index.html
+Icon: https://repo.litten.love/depictions/cst/assets/icon.png
+Name: Crystal 💎
+Sileodepiction: https://repo.litten.love/depictions/cst/cst.json
+
 Package: love.litten.diary
 Version: 1.0.1-24+debug
 Architecture: iphoneos-arm
