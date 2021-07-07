@@ -18,3 +18,22 @@ Icon: https://repo.litten.love/depictions/dry/assets/icon.png
 Name: Diary 📖
 Sileodepiction: https://repo.litten.love/depictions/dry/dry.json
 
+Package: love.litten.lisa
+Version: 1.5-44+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1520
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.lisa_1.5-44+debug_iphoneos-arm.deb
+Size: 837702
+MD5sum: aa74689d00004a4d5ab89dbb6bbcf0b4
+SHA1: 550236f17551a27d0e046ad628539c4729410fcf
+SHA256: 4695f02f1f2f9bde5a1882200cd069ab7b5f13aa290954d9b688e64712a02539
+Section: Tweaks
+Description: Full incoming OLED notifications
+Author: Litten & Esquilli
+Depiction: https://repo.litten.love/depictions/lsa/index.html
+Icon: https://repo.litten.love/depictions/lsa/assets/icon.png
+Name: Lisa 💅🏻
+Sileodepiction: https://repo.litten.love/depictions/lsa/lsa.json
+
