@@ -1005,6 +1005,25 @@ Icon: https://repo.litten.love/depictions/cst/assets/icon.png
 Name: Crystal 💎
 Sileodepiction: https://repo.litten.love/depictions/cst/cst.json
 
+Package: love.litten.crystal
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1476
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.crystal_1.4_iphoneos-arm.deb
+Size: 1060770
+MD5sum: 4a45325721be3c58c10d49060728217a
+SHA1: ecea24c067f668650fcb9b54aafef0bd2db10492
+SHA256: 0523d69feaa78c103134df97e60da140da3eb6cbaea7d9f4ffc3f21c55df5db0
+Section: Tweaks
+Description: Headphone listening mode automations
+Author: Litten
+Depiction: https://repo.litten.love/depictions/cst/index.html
+Icon: https://repo.litten.love/depictions/cst/assets/icon.png
+Name: Crystal 💎
+Sileodepiction: https://repo.litten.love/depictions/cst/cst.json
+
 Package: love.litten.dejavu
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2677,6 +2696,25 @@ Size: 102674
 MD5sum: 62b83a6ffefa4d2795a6260296c2347c
 SHA1: f812098ccf7242ad6f104b96aa810b7e3308d7b0
 SHA256: 8b49e9b023fb4b50fc48178f9e8c65b920de39f88f5c3b435bfe5ccc7fd9a9f8
+Section: Tweaks
+Description: Full incoming OLED notifications
+Author: Litten & Esquilli
+Depiction: https://repo.litten.love/depictions/lsa/index.html
+Icon: https://repo.litten.love/depictions/lsa/assets/icon.png
+Name: Lisa 💅🏻
+Sileodepiction: https://repo.litten.love/depictions/lsa/lsa.json
+
+Package: love.litten.lisa
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.lisa_1.5_iphoneos-arm.deb
+Size: 808684
+MD5sum: 1f42f3ba8668ac7b05c9688aed1c182d
+SHA1: 225d5b563373763fac57e4efd03cc1fcfa5133f7
+SHA256: 82869b0ac43e1d528396eb17ca80fd284d1a6fa34cb3a44030f2b3a4b9c99b5c
 Section: Tweaks
 Description: Full incoming OLED notifications
 Author: Litten & Esquilli
