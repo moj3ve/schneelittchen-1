@@ -31,3 +31,18 @@ $(document).ready(function() {
         }
     })
 })
+
+// var isExpanded = false;
+
+// function expandMobileNavigationBar() {
+
+//     const mobileNavigationBarButton = document.getElementById('mobileNavigationBarButton');
+//     if (!isExpanded) {
+//         mobileNavigationBarButton.style.opacity = "1";
+//         isExpanded = true;
+//     } else {
+//         mobileNavigationBarButton.style.opacity = "0.7";
+//         isExpanded = false;
+//     }
+
+// }
