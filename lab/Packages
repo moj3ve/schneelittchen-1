@@ -97,6 +97,26 @@ Icon: https://repo.litten.love/depictions/dry/assets/icon.png
 Name: Diary 📖
 Sileodepiction: https://repo.litten.love/depictions/dry/dry.json
 
+Package: love.litten.diary
+Version: 1.1-60+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 6468
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
+Filename: ./debs/love.litten.diary_1.1-60+debug_iphoneos-arm.deb
+Size: 2754542
+MD5sum: e08b29370fc7e324275561c7fb83049d
+SHA1: 6b3abefa3ed26ba6e7f154a129c0207ec13615c8
+SHA256: 3023b77d8409934a028dfc31230bc052e373adc5866f85934f186c40ec6863db
+Section: Tweaks
+Description: Dear diary..
+Author: Litten
+Depiction: https://repo.litten.love/depictions/dry/index.html
+Icon: https://repo.litten.love/depictions/dry/assets/icon.png
+Name: Diary 📖
+Sileodepiction: https://repo.litten.love/depictions/dry/dry.json
+
 Package: love.litten.lisa
 Version: 1.5-44+debug
 Architecture: iphoneos-arm
