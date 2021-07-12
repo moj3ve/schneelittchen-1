@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Windows 10 lock screen replica"
+                    "markdown": "Windows 10/11 lock screen replica"
                 },
                 {
                     "class": "DepictionSeparatorView"
