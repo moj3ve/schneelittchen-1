@@ -32,6 +32,14 @@
                         {
                             "accessibilityText": "Screenshot5",
                             "url": "https://repo.litten.love/depictions/dry/assets/ss6.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot6",
+                            "url": "https://repo.litten.love/depictions/dry/assets/ss7.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot7",
+                            "url": "https://repo.litten.love/depictions/dry/assets/ss8.png"
                         }
                     ]
                 },
@@ -58,12 +66,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.0",
+                    "text": "1.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "08.06.2021",
+                    "text": "13.07.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -110,7 +118,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Initial release",
+                    "markdown": "- Added Windows 11 style\r\n- Added Open Sans font\r\n- Added custom colors to a few areas\r\n- Added an option for custom z-index\r\n- Added an option for adaptive media player background\r\n- Improved passcode screen animations\r\n- Made the passcode screen dismissible by tapping twice\r\n- Fixed the option to hide the stock time and date\r\n- Increased maximum notification offset\r\n- Other bug fixes",
                     "useSpacing": false
                 },
                 {
