@@ -41,12 +41,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "2.0.1",
+                    "text": "2.0.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "09.06.2021",
+                    "text": "16.07.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -93,7 +93,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Save previous low power mode state",
+                    "markdown": "- Fixed the preferences button to activate Puck",
                     "useSpacing": false
                 },
                 {
