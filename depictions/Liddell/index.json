@@ -10,35 +10,35 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss1.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss2.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss3.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss3.png"
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss4.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss4.png"
                         },
                         {
                             "accessibilityText": "Screenshot4",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss5.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss5.png"
                         },
                         {
                             "accessibilityText": "Screenshot5",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss6.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss6.png"
                         },
                         {
                             "accessibilityText": "Screenshot6",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss7.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss7.png"
                         },
                         {
                             "accessibilityText": "Screenshot7",
-                            "url": "https://repo.litten.love/depictions/ldl/assets/ss8.png"
+                            "url": "https://repo.litten.love/depictions/Liddell/assets/ss8.png"
                         }
                     ]
                 },
@@ -127,12 +127,12 @@
                 {
                     "class": "DepictionTableButtonView",
                     "title": "View Full Changelog",
-                    "action": "https://repo.litten.love/depictions/ldl/changelog.html"
+                    "action": "https://repo.litten.love/depictions/Liddell/changelog.html"
                 }
             ]
         }
     ],
-    "headerImage": "https://repo.litten.love/depictions/ldl/assets/banner.png",
+    "headerImage": "https://repo.litten.love/depictions/Liddell/assets/banner.png",
     "tintColor": "#098f5f",
     "minVersion": "0.1"
 }
