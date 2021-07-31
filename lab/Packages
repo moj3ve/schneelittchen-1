@@ -397,6 +397,25 @@ Icon: https://repo.litten.love/depictions/Diary/assets/icon.png
 Name: Diary 📖
 Sileodepiction: https://repo.litten.love/depictions/Diary/index.json
 
+Package: love.litten.heartlines
+Version: 1.5-13+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.heartlines_1.5-13+debug_iphoneos-arm.deb
+Size: 1218910
+MD5sum: 63431c5f2a0743d528c8edd84649b1d0
+SHA1: ead4a72481b744cbee524b54593c5664f3e8bc65
+SHA256: fcbb10e1924b788df359bdb8ae5881e5168a2dcd4f8230336759edcb7f57647d
+Section: Tweaks
+Description: I know there's trembling in your heartlines
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Heartlines/index.html
+Icon: https://repo.litten.love/depictions/Heartlines/assets/icon.png
+Name: Heartlines 🌺
+Sileodepiction: https://repo.litten.love/depictions/Heartlines/index.json
+
 Package: love.litten.lisa
 Version: 1.5-44+debug
 Architecture: iphoneos-arm
