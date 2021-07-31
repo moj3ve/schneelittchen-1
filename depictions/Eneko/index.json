@@ -10,20 +10,20 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/Eneko/assets/ss1.mp4",
+                            "url": "https://repo.litten.love/depictions/Eneko/assets/screenshot1.mp4",
                             "video": true
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/Eneko/assets/ss4.png"
+                            "url": "https://repo.litten.love/depictions/Eneko/assets/screenshot4.png"
                         },
                         {
                             "accessibilityText": "Screenshot4",
-                            "url": "https://repo.litten.love/depictions/Eneko/assets/ss5.png"
+                            "url": "https://repo.litten.love/depictions/Eneko/assets/screenshot5.png"
                         },
                         {
                             "accessibilityText": "Screenshot5",
-                            "url": "https://repo.litten.love/depictions/Eneko/assets/ss6.png"
+                            "url": "https://repo.litten.love/depictions/Eneko/assets/screenshot6.png"
                         }
                     ]
                 },

@@ -10,36 +10,36 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss1.mp4",
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot1.mp4",
                             "video": true
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss2.png"
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss3.png"
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot3.png"
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss4.png"
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot4.png"
                         },
                         {
                             "accessibilityText": "Screenshot4",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss5.png"
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot5.png"
                         },
                         {
                             "accessibilityText": "Screenshot5",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss6.png"
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot6.png"
                         },
                         {
                             "accessibilityText": "Screenshot6",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss7.png"
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot7.png"
                         },
                         {
                             "accessibilityText": "Screenshot7",
-                            "url": "https://repo.litten.love/depictions/Diary/assets/ss8.png"
+                            "url": "https://repo.litten.love/depictions/Diary/assets/screenshot8.png"
                         }
                     ]
                 },

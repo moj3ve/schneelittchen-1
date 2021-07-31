@@ -10,16 +10,16 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/AmongLock/assets/ss1.mp4",
+                            "url": "https://repo.litten.love/depictions/AmongLock/assets/screenshot1.mp4",
                             "video": true
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/AmongLock/assets/ss2.png"
+                            "url": "https://repo.litten.love/depictions/AmongLock/assets/screenshot2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/AmongLock/assets/ss3.png"
+                            "url": "https://repo.litten.love/depictions/AmongLock/assets/screenshot3.png"
                         }
                     ]
                 },
