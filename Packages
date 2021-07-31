@@ -2511,6 +2511,25 @@ Icon: https://repo.litten.love/depictions/Juin/assets/icon.png
 Name: Juin 🏖
 Sileodepiction: https://repo.litten.love/depictions/Juin/index.json
 
+Package: love.litten.juin
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1468
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.juin_1.1.3_iphoneos-arm.deb
+Size: 1007170
+MD5sum: 85d862d831ed46230b8ac9ec7aa919ed
+SHA1: c5447eaf3a5db4c5686d5dde9b37b0473f077c8b
+SHA256: 4232f7540f100ad7fafb0623fb6cae98f97341be97af30de7c31a979830d6b8c
+Section: Tweaks
+Description: Spotify inspired lock screen player
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Juin/index.html
+Icon: https://repo.litten.love/depictions/Juin/assets/icon.png
+Name: Juin 🏖
+Sileodepiction: https://repo.litten.love/depictions/Juin/index.json
+
 Package: love.litten.libkitten
 Version: 1.0
 Architecture: iphoneos-arm
