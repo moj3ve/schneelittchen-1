@@ -53,12 +53,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.4.6",
+                    "text": "1.5",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "18.07.2021",
+                    "text": "31.07.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Updated package links",
+                    "markdown": "- Performance improvements\r\n- Added custom date locale\r\n- Updated preferences\r\n- Removed SF Pro font",
                     "useSpacing": false
                 },
                 {
