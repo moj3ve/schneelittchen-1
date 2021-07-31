@@ -66,12 +66,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1.2",
+                    "text": "1.1.3",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "18.07.2021",
+                    "text": "31.07.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -118,7 +118,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Updated package links",
+                    "markdown": "- Fixed the slide up to unlock on iPad\r\n- Fixed the media player on iPad",
                     "useSpacing": false
                 },
                 {
