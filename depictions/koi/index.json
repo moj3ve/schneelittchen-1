@@ -57,12 +57,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.1.6",
+                    "text": "1.1.7",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "18.07.2021",
+                    "text": "01.08.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -114,7 +114,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Updated package links",
+                    "markdown": "- Updated preferences",
                     "useSpacing": false
                 },
                 {

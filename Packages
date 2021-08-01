@@ -131,6 +131,25 @@ Icon: https://repo.litten.love/depictions/koi/assets/icon.png
 Name: Koi 🐠
 Sileodepiction: https://repo.litten.love/depictions/koi/koi.json
 
+Package: 0xcc.woodfairy.koi
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: woodfairy & Litten
+Installed-Size: 1456
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debs/0xcc.woodfairy.koi_1.1.7_iphoneos-arm.deb
+Size: 1045420
+MD5sum: 83f496bce14e685cb59e978b06554405
+SHA1: 81417178b949adfe9b7003bade1ae5f038c5d182
+SHA256: 47f4b61c59a7a2412d99910ad34f0db7a7b9add1a56c92529283f2539ca758fa
+Section: Tweaks
+Description: Colorize the force touch menu background based on the app icon color
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/Koi/index.html
+Icon: https://repo.litten.love/depictions/Koi/assets/icon.png
+Name: Koi 🐠
+Sileodepiction: https://repo.litten.love/depictions/Koi/index.json
+
 Package: love.litten.amonglock
 Version: 1.0
 Architecture: iphoneos-arm
