@@ -1,0 +1,17 @@
+{
+	"LongDescription": "Set an image or video wallpaper on your Apple TV\n\nImage or Video needs to be named 'wallpaper.png/mp4' and placed into /Library/Ballet/ with scp/usb\n\nYou can find detailed instructions at https://github.com/schneelittchen/Ballet",
+	"MainTextColor": "ffffff",
+	"ShowTopScreenshot": false,
+	"BackgroundColor": "000000",
+	"BackgroundImageURL": "https://repo.litten.love/tv/depictions/Ballet/assets/background.png",
+	"VideoPreviewURL": "https://repo.litten.love/tv/depictions/Ballet/assets/preview.mp4",
+	"AppIconURL": "https://repo.litten.love/tv/depictions/Ballet/assets/depictionIcon.png",
+	"Screenshots":[
+		"https://repo.litten.love/tv/depictions/Ballet/assets/screenshot1.png",
+		"https://repo.litten.love/tv/depictions/Ballet/assets/screenshot2.png",
+		"https://repo.litten.love/tv/depictions/Ballet/assets/screenshot3.png",
+		"https://repo.litten.love/tv/depictions/Ballet/assets/screenshot4.png",
+		"https://repo.litten.love/tv/depictions/Ballet/assets/screenshot5.png",
+		"https://repo.litten.love/tv/depictions/Ballet/assets/screenshot6.png"
+	]
+}
