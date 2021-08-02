@@ -65,12 +65,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2",
+                    "text": "1.2.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "01.08.2021",
+                    "text": "02.08.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -117,7 +117,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Added custom scroll speed",
+                    "markdown": "- Fixed the preferences for iOS 13 arm64e\r\n- Increased the maximum possible scroll rate",
                     "useSpacing": false
                 },
                 {
