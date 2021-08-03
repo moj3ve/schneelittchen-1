@@ -65,12 +65,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2.1",
+                    "text": "1.2.2",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "02.08.2021",
+                    "text": "03.08.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -117,7 +117,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed the preferences for iOS 13 arm64e\r\n- Increased the maximum possible scroll rate",
+                    "markdown": "- Fixed a crash on iOS 14 arm64e devices",
                     "useSpacing": false
                 },
                 {

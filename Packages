@@ -2359,6 +2359,25 @@ Icon: https://repo.litten.love/depictions/Heartlines/assets/icon.png
 Name: Heartlines 🌺
 Sileodepiction: https://repo.litten.love/depictions/Heartlines/index.json
 
+Package: love.litten.heartlines
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.heartlines_1.5.2_iphoneos-arm.deb
+Size: 1175442
+MD5sum: cac3d8206d03d3f713f79876c5896860
+SHA1: 2bf2bee246004b1d5d09aba74124964bab9e13fa
+SHA256: 8f36ba14da003a81e3790e7488ab2c45783f30c53f4e198a67daddb0409496be
+Section: Tweaks
+Description: I know there's trembling in your heartlines
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Heartlines/index.html
+Icon: https://repo.litten.love/depictions/Heartlines/assets/icon.png
+Name: Heartlines 🌺
+Sileodepiction: https://repo.litten.love/depictions/Heartlines/index.json
+
 Package: love.litten.juin
 Version: 1.1.1
 Architecture: iphoneos-arm
@@ -2701,6 +2720,25 @@ Size: 1255092
 MD5sum: 091474fd0ef88a1abc25b5052ae0b108
 SHA1: 15e7990dde51128fa5cbdd50d07beb89fe55f476
 SHA256: 5e31c8440f95d80b4ca3178cc9e4b033fc27709ea2cb9aa786eb8d9616f2b646
+Section: Tweaks
+Description: Liddell notification banners
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Liddell/index.html
+Icon: https://repo.litten.love/depictions/Liddell/assets/icon.png
+Name: Liddell 🫖
+Sileodepiction: https://repo.litten.love/depictions/Liddell/index.json
+
+Package: love.litten.liddell
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.3), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.liddell_1.2.2_iphoneos-arm.deb
+Size: 1221798
+MD5sum: 353c819c9ef68565ba352e09326d6858
+SHA1: 8bdaac6a216bfa85b67a70bc555029218a1a2784
+SHA256: 54203a2975d960090a96a6f84f403460669133c65c8d9e8eb167f1aee1a1ab65
 Section: Tweaks
 Description: Liddell notification banners
 Author: Litten
