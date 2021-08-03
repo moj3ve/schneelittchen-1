@@ -416,6 +416,25 @@ Icon: https://repo.litten.love/depictions/Heartlines/assets/icon.png
 Name: Heartlines 🌺
 Sileodepiction: https://repo.litten.love/depictions/Heartlines/index.json
 
+Package: love.litten.heartlines
+Version: 1.5.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2108
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.heartlines_1.5.2-1+debug_iphoneos-arm.deb
+Size: 1220632
+MD5sum: 5a2c6dc08f230dde16699014a2c92932
+SHA1: 9278a0c4f74bcd2fac89eedb5801dcaf9fe172fa
+SHA256: 04c9e993aad566d0f96cb77356a11ccacb69fe41f59d8ce5fde5a8d193f1d567
+Section: Tweaks
+Description: I know there's trembling in your heartlines
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Heartlines/index.html
+Icon: https://repo.litten.love/depictions/Heartlines/assets/icon.png
+Name: Heartlines 🌺
+Sileodepiction: https://repo.litten.love/depictions/Heartlines/index.json
+
 Package: love.litten.liddell
 Version: 1.2.2-1+debug
 Architecture: iphoneos-arm
