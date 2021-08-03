@@ -45,12 +45,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "2.5.11",
+                    "text": "2.6",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "18.07.2021",
+                    "text": "03.07.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Updated package links",
+                    "markdown": "- Added custom quick action button size\r\n- Updated preferences\r\n- Switched to libGcUniversal",
                     "useSpacing": false
                 },
                 {

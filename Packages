@@ -1846,6 +1846,25 @@ Icon: https://repo.litten.love/depictions/drs/assets/icon.png
 Name: Dress 👗
 Sileodepiction: https://repo.litten.love/depictions/drs/drs.json
 
+Package: love.litten.dress
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1568
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.dress_2.6_iphoneos-arm.deb
+Size: 996722
+MD5sum: 6038653b8e87bebf2b60daf5d48768be
+SHA1: 1f4627e820063700e7cd87bf884552452e81ccb9
+SHA256: 6be6f12b42336cdb1d26454dcd8f3c63138b322088539bd73d444a0a8f03c1f3
+Section: Tweaks
+Description: Dress up your lock screen
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Dress/index.html
+Icon: https://repo.litten.love/depictions/Dress/assets/icon.png
+Name: Dress 👗
+Sileodepiction: https://repo.litten.love/depictions/Dress/index.json
+
 Package: love.litten.eneko
 Version: 1.0
 Architecture: iphoneos-arm
