@@ -514,6 +514,25 @@ Name: Lisa 💅🏻
 Sileodepiction: https://repo.litten.love/depictions/lsa/lsa.json
 
 Package: love.litten.nita
+Version: 1.5.3-11+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1444
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./debs/love.litten.nita_1.5.3-11+debug_iphoneos-arm.deb
+Size: 913576
+MD5sum: 6a3aa30ae586a96b1d800e718a7495e5
+SHA1: fc26d3dff1e78b2a305e95300fc9b72b712f3e52
+SHA256: 1f153bd0d90f20a2679f8fbcae1ce3fd935c7fe0676329912f3666faa08dac63
+Section: Tweaks
+Description: Ensoleillé
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Nita/index.html
+Icon: https://repo.litten.love/depictions/Nita/assets/icon.png
+Name: Nita ☀️
+Sileodepiction: https://repo.litten.love/depictions/Nita/index.json
+
+Package: love.litten.nita
 Version: 1.5.3-4+debug
 Architecture: iphoneos-arm
 Maintainer: Litten
