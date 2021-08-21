@@ -66,12 +66,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2",
+                    "text": "1.2.1",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "18.08.2021",
+                    "text": "21.08.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -118,7 +118,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Made the Windows 11 Style Time and Date scroll with the notifications\r\n- Added ShortLook support",
+                    "markdown": "- Fixed the Windows 11 Style Time and Date appearing twice",
                     "useSpacing": false
                 },
                 {
