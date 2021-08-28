@@ -5052,6 +5052,25 @@ Icon: https://repo.litten.love/depictions/Violet/assets/icon.png
 Name: Violet 🎀
 Sileodepiction: https://repo.litten.love/depictions/Violet/index.json
 
+Package: love.litten.violet
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1812
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.violet_1.7_iphoneos-arm.deb
+Size: 1014956
+MD5sum: 45b3c2dc1151fce2576509927e8eaa96
+SHA1: 3fc559a02d8736392f5529d3b339eac5973a3f59
+SHA256: 10f15c067aae9452cb273e9f0c52936176d3d17e8e61b19723e4fd31f51e2882
+Section: Tweaks
+Description: Sweet addition to your wallpaper
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Violet/index.html
+Icon: https://repo.litten.love/depictions/Violet/assets/icon.png
+Name: Violet 🎀
+Sileodepiction: https://repo.litten.love/depictions/Violet/index.json
+
 Package: love.litten.yuna
 Version: 1.0
 Architecture: iphoneos-arm

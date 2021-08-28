@@ -61,12 +61,12 @@
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.6.2",
+                    "text": "1.7",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "18.07.2021",
+                    "text": "28.08.2021",
                     "title": "Last Time Updated"
                 },
                 {
@@ -113,7 +113,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Updated package links",
+                    "markdown": "- Added an option to override the lock screen player style\r\n- Performance improvements\r\n- Updated the preferences",
                     "useSpacing": false
                 },
                 {
