@@ -551,6 +551,25 @@ Icon: https://repo.litten.love/depictions/Nita/assets/icon.png
 Name: Nita ☀️
 Sileodepiction: https://repo.litten.love/depictions/Nita/index.json
 
+Package: love.litten.ve
+Version: 1.0-577+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1624
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./debs/love.litten.ve_1.0-577+debug_iphoneos-arm.deb
+Size: 819668
+MD5sum: ea66d7968765819ad46eb751b4e516b1
+SHA1: 5b6715c67f2da9b46af8080a32a19a8c90ba9269
+SHA256: 0c1e07563e0981604a02ce24d0285e1602b0f2e3227bf89d02e2a44eb5fa387e
+Section: Tweaks
+Description: Natively integrated notification logger
+Author: Litten & 74k1_
+Depiction: https://repo.litten.love/depictions/Ve/index.html
+Icon: https://repo.litten.love/depictions/Ve/assets/icon.png
+Name: Vē 💌
+Sileodepiction: https://repo.litten.love/depictions/Ve/index.json
+
 Package: love.litten.violet
 Version: 1.6.2-1+debug
 Architecture: iphoneos-arm
