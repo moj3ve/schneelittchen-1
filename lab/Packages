@@ -741,6 +741,25 @@ Icon: https://repo.litten.love/depictions/Ve/assets/icon.png
 Name: Vē 💌
 Sileodepiction: https://repo.litten.love/depictions/Ve/index.json
 
+Package: love.litten.ve
+Version: 1.0-815+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1860
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
+Filename: ./debs/love.litten.ve_1.0-815+debug_iphoneos-arm.deb
+Size: 839960
+MD5sum: a4a7a02ea33a46e6983eb53e02fdce66
+SHA1: cbf3cf38f5c578c5e67e3581068161b4e9fffb43
+SHA256: 514109bab65482b74223e082474ec334c368b94033bf6332d4322b18dd933ce0
+Section: Tweaks
+Description: Natively integrated notification logger
+Author: Litten & 74k1_
+Depiction: https://repo.litten.love/depictions/Ve/index.html
+Icon: https://repo.litten.love/depictions/Ve/assets/icon.png
+Name: Vē 💌
+Sileodepiction: https://repo.litten.love/depictions/Ve/index.json
+
 Package: love.litten.violet
 Version: 1.6.2-1+debug
 Architecture: iphoneos-arm
