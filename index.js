@@ -8,7 +8,8 @@ $(document).ready(function() {
         $('.background').css("opacity", 0 + offset / 500);
         $('.header').css("opacity", 1 - offset / 300);
         $('.tweaks').css("opacity", 0 + offset / 300);
-        
+
         if (offset > 0) $('.scrollIndicator').css("visibility", "hidden");
+        else if (offset == 0) $('.scrollIndicator').css("visibility", "visible");
     })
 })

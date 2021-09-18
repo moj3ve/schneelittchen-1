@@ -1,3 +1,8 @@
+<!-- TODO:
+tweak section header
+laboratory section
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,18 +16,71 @@
     <meta property="og:title" content="Litten's Wondercafé ☕️🌸">
     <meta property="og:description" content="the place of a daydreamer">
     <meta property="og:url" content="https://repo.litten.love">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="index.js"></script>
 
 </head>
 <body>
 
-    <p style="text-align: center; color: #000000;">take this cookie until i come up with a design for this page 🍪</p>
+    <div class="background" id="background"></div>
 
-    <ul style="text-align: center; padding: 0; margin: 0;">
-        <li style="display: inline-block; padding: 10px;"><a style="color: #000000;" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.litten.love/">Cydia</a></li>
-        <li style="display: inline-block; padding: 10px"><a style="color: #000000;" href="sileo://source/https://repo.litten.love/">Sileo</a></li>
-        <li style="display: inline-block; padding: 10px"><a style="color: #000000;" href="zbra://sources/add/https://repo.litten.love/">Zebra</a></li>
-        <li style="display: inline-block; padding: 10px"><a style="color: #000000;" href="installer://add/https://repo.litten.love/">Installer</a></li>
-    </ul>
+    <div class="navigationBar">
+        <div class="container">
+            <ul>
+                <li><a href="https://twitter.com/schneelittchen"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://www.reddit.com/user/Sternentraum"><i class="fab fa-reddit-alien"></i></a></li>
+                <li><a href="https://github.com/schneelittchen"><i class="fab fa-github"></i></a></li>
+                <li><a href="https://discord.gg/tKUPZrS7ve"><i class="fab fa-discord"></i></a></li>
+                <li><a href="https://repo.litten.love/"><i class="fas fa-box-open"></i></a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="header">
+        <div class="container">
+            <h1 id="header">Wondercafe</h1>
+            <ul id="links">
+                <li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.litten.love/">Cydia</a></li>
+                <li><a href="sileo://source/https://repo.litten.love/">Sileo</a></li>
+                <li><a href="zbra://sources/add/https://repo.litten.love/">Zebra</a></li>
+                <li><a href="installer://add/https://repo.litten.love/">Installer</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="tweaks">
+        <div class="container">
+            <ul id="tweaks">
+                <li><a href="depictions/AmongLock/" target="_blank"><img src="assets/tweak-icons/AmongLock.png"></a></li>
+                <li><a href="depictions/Astolfo/" target="_blank"><img src="assets/tweak-icons/Astolfo.png"></a></li>
+                <li><a href="depictions/Avrora/" target="_blank"><img src="assets/tweak-icons/Avrora.png"></a></li>
+                <li><a href="tv/depictions/Ballet/" target="_blank"><img src="assets/tweak-icons/Ballet.png"></a></li>
+                <li><a href="depictions/BatteryBuddy/" target="_blank"><img src="assets/tweak-icons/BatteryBuddy.png"></a></li>
+                <li><a href="depictions/Copypasta/" target="_blank"><img src="assets/tweak-icons/Copypasta.png"></a></li>
+                <li><a href="depictions/Crystal/" target="_blank"><img src="assets/tweak-icons/Crystal.png"></a></li>
+                <li><a href="depictions/DejaVu/" target="_blank"><img src="assets/tweak-icons/DejaVu.png"></a></li>
+                <li><a href="depictions/Diary/" target="_blank"><img src="assets/tweak-icons/Dress.png"></a></li>
+                <li><a href="depictions/Eneko/" target="_blank"><img src="assets/tweak-icons/Eneko.png"></a></li>
+                <li><a href="depictions/Heartlines/" target="_blank"><img src="assets/tweak-icons/Heartlines.png"></a></li>
+                <li><a href="depictions/Juin/" target="_blank"><img src="assets/tweak-icons/Juin.png"></a></li>
+                <li><a href="depictions/Koi/" target="_blank"><img src="assets/tweak-icons/Koi.png"></a></li>
+                <li><a href="depictions/libKitten/" target="_blank"><img src="assets/tweak-icons/libKitten.png"></a></li>
+                <li><a href="depictions/Liddell/" target="_blank"><img src="assets/tweak-icons/Liddell.png"></a></li>
+                <li><a href="depictions/Lisa/" target="_blank"><img src="assets/tweak-icons/Lisa.png"></a></li>
+                <li><a href="depictions/Lune/" target="_blank"><img src="assets/tweak-icons/Lune.png"></a></li>
+                <li><a href="depictions/Nita/" target="_blank"><img src="assets/tweak-icons/Nita.png"></a></li>
+                <li><a href="depictions/Puck/" target="_blank"><img src="assets/tweak-icons/Puck.png"></a></li>
+                <li><a href="depictions/Rose/" target="_blank"><img src="assets/tweak-icons/Rose.png"></a></li>
+                <li><a href="depictions/SafariWallpaper/" target="_blank"><img src="assets/tweak-icons/SafariWallpaper.png"></a></li>
+                <li><a href="depictions/Ve/" target="_blank"><img src="assets/tweak-icons/Ve.png"></a></li>
+                <li><a href="depictions/Violet/" target="_blank"><img src="assets/tweak-icons/Violet.png"></a></li>
+                <li><a href="depictions/Yuna/" target="_blank"><img src="assets/tweak-icons/Yuna.png"></a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="scrollIndicator"><i class="fas fa-chevron-down"></i></div>
 
 </body>
 </html>

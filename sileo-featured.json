@@ -1,21 +1,27 @@
-{  
+{
    "class":"FeaturedBannersView",
    "itemSize":"{263, 148}",
    "itemCornerRadius":10,
    "banners":[
-      {  
+      {
+         "url":"https://repo.litten.love/depictions/Ve/assets/banner.png",
+         "title":"Vē",
+         "package":"love.litten.ve",
+         "hideShadow":true
+      },
+      {
          "url":"https://repo.litten.love/depictions/Diary/assets/banner.png",
          "title":"Diary",
          "package":"love.litten.diary",
          "hideShadow":true
       },
-      {  
+      {
          "url":"https://repo.litten.love/depictions/Liddell/assets/banner.png",
          "title":"Liddell",
          "package":"love.litten.liddell",
          "hideShadow":true
       },
-      {  
+      {
          "url":"https://repo.litten.love/depictions/BatteryBuddy/assets/banner.png",
          "title":"BatteryBuddy",
          "package":"love.litten.batterybuddy",
@@ -27,22 +33,16 @@
          "package":"love.litten.dejavu",
          "hideShadow":true
       },
-      {  
+      {
          "url":"https://repo.litten.love/depictions/Nita/assets/banner.png",
          "title":"Nita",
          "package":"love.litten.nita",
          "hideShadow":true
       },
-      {  
+      {
          "url":"https://repo.litten.love/depictions/Yuna/assets/banner.png",
          "title":"Yuna",
          "package":"love.litten.yuna",
-         "hideShadow":true
-      },
-      {
-         "url":"https://repo.litten.love/depictions/Copypasta/assets/banner.png",
-         "title":"Copypasta",
-         "package":"love.litten.copypasta",
          "hideShadow":true
       }
    ]

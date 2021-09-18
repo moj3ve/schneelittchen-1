@@ -4653,6 +4653,25 @@ Icon: https://repo.litten.love/depictions/SafariWallpaper/assets/icon.png
 Name: SafariWallpaper 🌇
 Sileodepiction: https://repo.litten.love/depictions/SafariWallpaper/index.json
 
+Package: love.litten.ve
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2728
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
+Filename: ./debs/love.litten.ve_1.0_iphoneos-arm.deb
+Size: 1875652
+MD5sum: 345e8a3a30cf01212999476cb8ef0baf
+SHA1: 125d30c4fee6e14b02792a7171486b2add348dc3
+SHA256: e4b632b8981b1819b4f0b53af1a8bea76c1a50bef3d8729a92f433a6b1141429
+Section: Tweaks
+Description: Natively integrated notification logger
+Author: Litten & 74k1_
+Depiction: https://repo.litten.love/depictions/Ve/index.html
+Icon: https://repo.litten.love/depictions/Ve/assets/icon.png
+Name: Vē 💌
+Sileodepiction: https://repo.litten.love/depictions/Ve/index.json
+
 Package: love.litten.violet
 Version: 1.0
 Architecture: iphoneos-arm
