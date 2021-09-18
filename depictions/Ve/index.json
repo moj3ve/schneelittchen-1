@@ -10,35 +10,35 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot1.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot2.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot3.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot3.png"
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot4.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot4.png"
                         },
                         {
                             "accessibilityText": "Screenshot4",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot5.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot5.png"
                         },
                         {
                             "accessibilityText": "Screenshot5",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot6.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot6.png"
                         },
                         {
                             "accessibilityText": "Screenshot6",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot7.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot7.png"
                         },
                         {
                             "accessibilityText": "Screenshot7",
-                            "url": "https://repo.litten.love/depictions/Liddell/assets/screenshot8.png"
+                            "url": "https://repo.litten.love/depictions/Ve/assets/screenshot8.png"
                         }
                     ]
                 },
@@ -46,49 +46,49 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {   
+                {
                     "class": "DepictionHeaderView",
                     "title": "Long Description",
                     "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Make your notification banners smaller and add some color to them"
+                    "markdown": "Log every incoming notification to view them again later, also includes attachments and advanced settings to configure"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
-                {   
+                {
                     "class": "DepictionHeaderView",
                     "title": "Details",
                     "useBoldText": true
                 },
                 {
                     "title": "Current Version",
-                    "text": "1.2.2",
+                    "text": "1.0",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "03.08.2021",
+                    "text": "13.09.2021",
                     "title": "Last Time Updated"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "25.05.2021",
+                    "text": "13.09.2021",
                     "title": "Released"
                 },
-                {   
+                {
                     "class": "DepictionTableTextView",
                     "title": "Price",
                     "text": "Free"
                 },
-                {   
+                {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
                     "text": "iOS 13 & 14"
                 },
-                {   
+                {
                     "class": "DepictionTableTextView",
                     "title": "Devices",
                     "text": "iPhone, iPod & iPad"
@@ -110,14 +110,14 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-                {   
+                {
                     "class": "DepictionHeaderView",
                     "title": "Latest Changes",
                     "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fixed a crash on iOS 14 arm64e devices",
+                    "markdown": "- Initial release",
                     "useSpacing": false
                 },
                 {
@@ -127,12 +127,12 @@
                 {
                     "class": "DepictionTableButtonView",
                     "title": "View Full Changelog",
-                    "action": "https://repo.litten.love/depictions/Liddell/changelog.html"
+                    "action": "https://repo.litten.love/depictions/Ve/changelog.html"
                 }
             ]
         }
     ],
-    "headerImage": "https://repo.litten.love/depictions/Liddell/assets/banner.png",
+    "headerImage": "https://repo.litten.love/depictions/Ve/assets/banner.png",
     "tintColor": "#098f5f",
     "minVersion": "0.1"
 }
