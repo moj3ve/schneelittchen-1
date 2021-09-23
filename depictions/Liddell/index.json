@@ -46,7 +46,7 @@
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
-                {   
+                {
                     "class": "DepictionHeaderView",
                     "title": "Long Description",
                     "useBoldText": true
@@ -58,7 +58,7 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-                {   
+                {
                     "class": "DepictionHeaderView",
                     "title": "Details",
                     "useBoldText": true
@@ -78,17 +78,17 @@
                     "text": "25.05.2021",
                     "title": "Released"
                 },
-                {   
+                {
                     "class": "DepictionTableTextView",
                     "title": "Price",
                     "text": "Free"
                 },
-                {   
+                {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
                     "text": "iOS 13 & 14"
                 },
-                {   
+                {
                     "class": "DepictionTableTextView",
                     "title": "Devices",
                     "text": "iPhone, iPod & iPad"
@@ -110,7 +110,7 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-                {   
+                {
                     "class": "DepictionHeaderView",
                     "title": "Latest Changes",
                     "useBoldText": true
@@ -133,6 +133,6 @@
         }
     ],
     "headerImage": "https://repo.litten.love/depictions/Liddell/assets/banner.png",
-    "tintColor": "#098f5f",
+    "tintColor": "#FF6E98",
     "minVersion": "0.1"
 }
